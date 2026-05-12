@@ -1,0 +1,8 @@
+Site otimizado Diva Magnética
+
+Como subir no GitHub/Vercel/Netlify:
+1. Envie o arquivo index.html.
+2. Envie junto a pasta assets inteira.
+3. Não apague nem renomeie a pasta assets, porque o HTML usa essas imagens.
+
+O arquivo HTML foi otimizado removendo imagens em base64 e colocando-as como arquivos separados.
